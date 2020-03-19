@@ -1,6 +1,6 @@
 # Tratamento-de-dados-SPC
 
-##Objetivo
+-Objetivo
 
 Analisar os dados recebidos pelo SPC e fazer o tratamento dos mesmos seguindo os indicadores propostos.
 
