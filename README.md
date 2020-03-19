@@ -20,3 +20,5 @@ Verificar total utilizado, valor total fatura, valor total mínimo da fatura, va
 Verificar o valor total pagamento, quantidade de registros vencidos e quantidade de pagamentos por remessa.
 
 ### Em todas as tabelas o algorítmo verifica a data da última atualização que o atributo foi alterado.
+
+### As tabelas e os indicadores não estão disponíveis por conter dados sigilosos.
