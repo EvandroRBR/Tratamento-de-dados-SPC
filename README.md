@@ -2,6 +2,11 @@
 
 # Projeto Integrador Fatec São José dos Campos junto ao SPC Brasil
 
+## - Discipinas integradas
+Engenharia de Software - Profº Giuliano Araujo Bertoti
+Sistemas de Informações - Profº José Walmyr Gonçalves Duque
+Linguagem de Programação - Profª Juliana Forin Pasquini Martiniz
+
 ## - Time
 * Evandro Braga - PO
 * Leonardo Messias - Scrum Master
