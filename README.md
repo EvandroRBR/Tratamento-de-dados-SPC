@@ -2,10 +2,10 @@
 
 # Projeto Integrador Fatec São José dos Campos junto ao SPC Brasil
 
-## - Discipinas integradas
-Engenharia de Software - Profº Giuliano Araujo Bertoti; 
-Sistemas de Informações - Profº José Walmyr Gonçalves Duque;
-Linguagem de Programação - Profª Juliana Forin Pasquini Martiniz
+## - Disciplinas integradas
+* # Engenharia de Software - Profº Giuliano Araujo Bertoti; 
+* # Sistemas de Informações - Profº José Walmyr Gonçalves Duque;
+* # Linguagem de Programação - Profª Juliana Forin Pasquini Martiniz
 
 ## - Time
 * Evandro Braga - PO
@@ -27,7 +27,7 @@ Após levantamento de requisitos, desenvolvemos um algoritmo para tratamento dos
 
 ### Tabela Fonte
 
-Analisar a validade dos CPNJs de acordo com as seguintes regras:
+Analisar a validade dos CNPJs de acordo com as seguintes regras:
 O primeiro campo do CNPJ deve conter 8 dígitos e o segundo campo no máximo 6, se tiver menos, o algorítmo completa com zeros à esquerda até que estejam com 6 dígitos contando os CNPJs válidos e os inválidos. 
 
 ![WhatsApp-Video-2020-05-07-at-08 57 31](https://user-images.githubusercontent.com/57918707/81297010-19516b00-9049-11ea-88c6-dc0d3d72e9cf.gif)
