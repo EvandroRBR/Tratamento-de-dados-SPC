@@ -4,11 +4,11 @@
 
 ## - Disciplinas integradas
 * ### Engenharia de Software 
-  Profº Giuliano Araujo Bertoti
+  Prof. Me. Giuliano Araujo Bertoti
 * ### Sistemas de Informações 
-  Profº José Walmyr Gonçalves Duque
+  Prof. Me. José Walmyr Gonçalves Duque
 * ### Linguagem de Programação
-  Profª Juliana Forin Pasquini Martiniz
+  Profª. Ma. Juliana Forin Pasquini Martiniz
 
 ## - Time
 * Evandro Braga - PO
