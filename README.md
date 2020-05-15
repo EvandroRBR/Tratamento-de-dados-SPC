@@ -24,8 +24,37 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com o SPC Brasi
 
 Recebemos do SPC Brasil uma remessa de dados juntamente com indicadores a serem alcançados.
 
+## Cards das Sprints
+
+![CARD'S-1e2](https://user-images.githubusercontent.com/56441214/82007549-e4dd4080-9640-11ea-980a-57477da5d7e7.png)
+
+![CARD'S-3e4](https://user-images.githubusercontent.com/56441214/82007561-ee66a880-9640-11ea-94db-9fa764787218.png)
+
+![CARD'S-5e6](https://user-images.githubusercontent.com/56441214/82007582-f6bee380-9640-11ea-83bf-eec28dd75058.png)
+
+## Requisitos necessários para o funcionamento do código
+* Python 3 ou superior
+* pip 3
+
+  Em ambientes ![linux231](https://user-images.githubusercontent.com/56441214/82009828-c11cf900-9646-11ea-8167-d60ff9696b25.jpg)
+ é necessário rodar o comando para instalação:
+
+  ```sudo apt install python3-pip``` 
+  
+  No Windows ![ruindows](https://user-images.githubusercontent.com/56441214/82010155-aa2ad680-9647-11ea-942e-1195bcb956be.jpg) quando instalado o python, o pip é automaticamente instalado em suas dependências.
+  
+* Bibliotecas xlrd e matplotlib
+
+  Em qualquer sistema operacional, os comandos para instalar as bibliotecas xlrd e matplotlib, são respectivamente:
+  
+  ```pip3 install xlrd```
+  
+  ```pip3 install matplotlib```
+  
+  A biblioteca datatime já vem instalado por padrão.
+
 Após levantamento de requisitos, desenvolvemos um algoritmo para tratamento dos dados.
- 
+
 ## - O que o nosso algoritmo pode fazer até o momento
 
 ### Tabela Fonte
