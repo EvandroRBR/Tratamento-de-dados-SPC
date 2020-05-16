@@ -29,14 +29,14 @@ Recebemos do SPC Brasil uma remessa de dados juntamente com indicadores a serem 
 O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de fácil entendimento e manipulação, além de grande desempenho para futuras remessas de dados.
 
 
-## Diagrama de Casos de Uso
+## - Diagrama de Casos de Uso
 
 
 ![PSX_20200515_214401](https://user-images.githubusercontent.com/57918707/82106095-6098c500-96f5-11ea-9b45-a67293b4b5ab.jpg)
 
 
 
-## Cards das Sprints
+## - Cards das Sprints
 
 ![CARD'S-1e2](https://user-images.githubusercontent.com/56441214/82007549-e4dd4080-9640-11ea-980a-57477da5d7e7.png)
 
@@ -44,7 +44,7 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
 
 ![CARD'S-5e6](https://user-images.githubusercontent.com/56441214/82007582-f6bee380-9640-11ea-83bf-eec28dd75058.png)
 
- ## Entregas 
+ ## - Entregas 
   As nossas entregas foram separadas por branches que é facilmente acessada no canto suprior esquerdo do repositório.
   
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-1'> Branch 1 </a>- 16/03/2020 a 20/03/2020
@@ -59,7 +59,7 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
   
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-6'> Branch 6 </a>- 06/07/2020 a 10/07/2020
   
-## Requisitos necessários para o funcionamento do código
+## - Requisitos necessários para o funcionamento do código
 * IDE **Python 3** ou superior;
 * Gerenciador de pacotes **Pip 3**;
 
