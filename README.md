@@ -2,6 +2,12 @@
 
 # Projeto Integrador - Fatec São José dos Campos - SPC Brasil
 
+## SPRINT 3
+
+Entrega prevista entre 25/5 - 29/5
+
+![image](https://user-images.githubusercontent.com/55189046/82107552-161c4600-96ff-11ea-9695-41d132a27b2d.png)
+
 
 ## - Disciplinas integradas
 * ### Engenharia de Software 
@@ -45,19 +51,7 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
 
 ![CARD'S-5e6](https://user-images.githubusercontent.com/56441214/82007582-f6bee380-9640-11ea-83bf-eec28dd75058.png)
 
-
-## Requisitos necessários para o funcionamento do código
-* IDE **Python 3** ou superior;
-* Gerenciador de pacotes **Pip 3**;
-
-  Para instalação em ambientes  ![linux231](https://user-images.githubusercontent.com/56441214/82009828-c11cf900-9646-11ea-8167-d60ff9696b25.jpg)
-  é necessário inserir o comando:
-
-  ```sudo apt install python3-pip``` 
-  
-  No Windows  ![ruindows](https://user-images.githubusercontent.com/56441214/82010155-aa2ad680-9647-11ea-942e-1195bcb956be.jpg)   assim que instalada a IDE do Python, o pip é adicionado por padrão.
-  
-  ## Entregas 
+ ## Entregas 
   As nossas entregas foram separadas por branches que é facilmente acessada no canto suprior esquerdo do repositório.
   
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-1'> Branch 1 </a>- 16/03/2020 a 20/03/2020
@@ -71,6 +65,18 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-5'> Branch 5 </a>- 22/06/2020 a 26/06/2020
   
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-6'> Branch 6 </a>- 06/07/2020 a 10/07/2020
+  
+## Requisitos necessários para o funcionamento do código
+* IDE **Python 3** ou superior;
+* Gerenciador de pacotes **Pip 3**;
+
+  Para instalação em ambientes  ![linux231](https://user-images.githubusercontent.com/56441214/82009828-c11cf900-9646-11ea-8167-d60ff9696b25.jpg)
+  é necessário inserir o comando:
+
+  ```sudo apt install python3-pip``` 
+  
+  No Windows  ![ruindows](https://user-images.githubusercontent.com/56441214/82010155-aa2ad680-9647-11ea-942e-1195bcb956be.jpg)   assim que instalada a IDE do Python, o pip é adicionado por padrão.
+  
   
 * Bibliotecas **xlrd** e **matplotlib**.
 
