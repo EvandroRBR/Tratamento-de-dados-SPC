@@ -3,7 +3,7 @@
 
 # Projeto Integrador - Fatec São José dos Campos - SPC Brasil
 
-## Sprint 6 
+## SPRINT 6 
 
 ## Entrega: 06/07/2020 a 10/07/2020
 
