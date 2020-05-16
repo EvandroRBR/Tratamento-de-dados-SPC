@@ -2,12 +2,6 @@
 
 # Projeto Integrador - Fatec São José dos Campos - SPC Brasil
 
-## SPRINT 3
-
-Entrega prevista entre 25/5 - 29/5
-
-![image](https://user-images.githubusercontent.com/55189046/82107552-161c4600-96ff-11ea-9695-41d132a27b2d.png)
-
 
 ## - Disciplinas integradas
 * ### Engenharia de Software 
