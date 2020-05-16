@@ -9,7 +9,7 @@
 Na primeira sprint, decidimos juntamente com a necessidade do SPC Brasil, a aplicação do seguinte card:
 
 
-![CARD1 ](https://user-images.githubusercontent.com/57918707/82107072-5b3e7900-96fb-11ea-9e9b-278562bbdc99.png))
+![CARD1 ](https://user-images.githubusercontent.com/57918707/82107072-5b3e7900-96fb-11ea-9e9b-278562bbdc99.png)
 
 
 ## - Execução do algoritmo
