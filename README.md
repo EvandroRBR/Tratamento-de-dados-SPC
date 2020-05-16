@@ -32,5 +32,4 @@ Gera um gráfico para cada tabela com a porcentagem de cada item do relatório.
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/56441371/82106167-bd947b00-96f5-11ea-88a9-2b927f128614.gif)
 
 ## Gráficos
-
 ![New Project](https://user-images.githubusercontent.com/57918707/82107443-02bcab00-96fe-11ea-8d50-3aa813544b73.png)
