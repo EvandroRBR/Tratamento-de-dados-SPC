@@ -58,6 +58,21 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
   
   No Windows  ![ruindows](https://user-images.githubusercontent.com/56441214/82010155-aa2ad680-9647-11ea-942e-1195bcb956be.jpg)   assim que instalada a IDE do Python, o pip é adicionado por padrão.
   
+  ## Entregas 
+  As nossas entregas foram separadas por branches que é facilmente acessada no canto suprior esquerdo do repositório.
+  
+  <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-1'> Branch 1 </a>- 16/03/2020 a 20/03/2020
+  
+  <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-2'> Branch 2 </a>- 11/05/2020 a 15/05/2020
+  
+  <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-3'> Branch 3 </a>- 25/05/2020 a 29/06/2020
+  
+  <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-4'> Branch 4 </a>- 08/06/2020 a 12/06/2020
+  
+  <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-5'> Branch 5 </a>- 22/06/2020 a 26/06/2020
+  
+  <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-6'> Branch 6 </a>- 06/07/2020 a 10/07/2020
+  
 * Bibliotecas **xlrd** e **matplotlib**.
 
   Em qualquer sistema operacional, os comandos para instalar as bibliotecas xlrd e matplotlib são, respectivamente:
