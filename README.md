@@ -5,7 +5,7 @@
 
 ## SPRINT 3
 
-## Entrega: 25/5/2020 - 29/5/2020
+## Entrega: 25/5/2020 a 29/5/2020
 
 ![image](https://user-images.githubusercontent.com/55189046/82107552-161c4600-96ff-11ea-9695-41d132a27b2d.png)
 
