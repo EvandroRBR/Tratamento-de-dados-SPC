@@ -33,5 +33,4 @@ Gera um gráfico para cada tabela com a porcentagem de cada item do relatório.
 
 ## Gráficos
 
-
 ![New Project](https://user-images.githubusercontent.com/57918707/82107443-02bcab00-96fe-11ea-8d50-3aa813544b73.png)
