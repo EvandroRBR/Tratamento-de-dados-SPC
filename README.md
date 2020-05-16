@@ -1,7 +1,12 @@
 ![image](https://user-images.githubusercontent.com/57918707/81295850-6e8c7d00-9047-11ea-98ea-f68549174851.png)
 
-
 # Projeto Integrador - Fatec São José dos Campos - SPC Brasil
+
+## SPRINT 3
+
+Entrega prevista entre 25/5 - 29/5
+
+![image](https://user-images.githubusercontent.com/55189046/82107552-161c4600-96ff-11ea-9695-41d132a27b2d.png)
 
 
 ## - Disciplinas integradas
@@ -59,7 +64,7 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
   No Windows  ![ruindows](https://user-images.githubusercontent.com/56441214/82010155-aa2ad680-9647-11ea-942e-1195bcb956be.jpg)   assim que instalada a IDE do Python, o pip é adicionado por padrão.
   
   ## Entregas 
-  As nossas entregas foram separadas por branches que são facilmente acessadas no canto superior esquerdo do repositório.
+  As nossas entregas foram separadas por branches que é facilmente acessada no canto suprior esquerdo do repositório.
   
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-1'> Branch 1 </a>- 16/03/2020 a 20/03/2020
   
