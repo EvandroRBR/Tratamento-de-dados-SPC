@@ -45,7 +45,7 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
 ![CARD'S-5e6](https://user-images.githubusercontent.com/56441214/82007582-f6bee380-9640-11ea-83bf-eec28dd75058.png)
 
  ## - Entregas 
-  As nossas entregas foram separadas por branches que é facilmente acessada no canto suprior esquerdo do repositório.
+  As nossas entregas foram separadas por branches que são facilmente acessados no canto superior esquerdo do repositório.
   
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-1'> Branch 1 </a>- 16/03/2020 a 20/03/2020
   
