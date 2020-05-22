@@ -7,5 +7,6 @@
 
 ## Entrega: 25/5/2020 a 29/5/2020
 
-![image](https://user-images.githubusercontent.com/55189046/82107552-161c4600-96ff-11ea-9695-41d132a27b2d.png)
+![sprint-3](https://user-images.githubusercontent.com/55189046/82715526-df4bb000-9c69-11ea-8042-ba2d8357e5ac.jpeg)
+
 
