@@ -40,9 +40,9 @@ O produto final cumprirá com os indicadores impostos, sendo uma ferramenta de f
 
 ![CARD'S-1e2](https://user-images.githubusercontent.com/56441214/82007549-e4dd4080-9640-11ea-980a-57477da5d7e7.png)
 
-![CARD'S-3e4](https://user-images.githubusercontent.com/56441214/82007561-ee66a880-9640-11ea-94db-9fa764787218.png)
+![CARD'S-3e4](https://user-images.githubusercontent.com/55189046/82715239-96dfc280-9c68-11ea-90ad-3537df59493e.png)
 
-![CARD'S-5e6](https://user-images.githubusercontent.com/56441214/82007582-f6bee380-9640-11ea-83bf-eec28dd75058.png)
+![CARD'S-5e6](https://user-images.githubusercontent.com/55189046/82715242-98a98600-9c68-11ea-83a4-e88aed4e0971.png)
 
  ## - Entregas 
   As nossas entregas foram separadas por branches que são facilmente acessados no canto superior esquerdo do repositório.
