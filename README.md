@@ -6,7 +6,11 @@
 ## SPRINT 3
 
 ## Entrega: 25/5/2020 a 29/5/2020
+Nessa sprint focamos em entregar o código de acordo com o seguinte card:
 
 ![sprint-3](https://user-images.githubusercontent.com/55189046/82715526-df4bb000-9c69-11ea-8042-ba2d8357e5ac.jpeg)
 
+Primeiramente decidimos criar um menu que tem o objetivo de facilitar o acesso a todas as funcionalidades do código.
 
+
+##
