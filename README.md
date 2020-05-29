@@ -14,11 +14,22 @@ Primeiramente decidimos criar um menu que tem o objetivo de facilitar o acesso a
 
 ## 1° Funcionalidade:
 Verifica os dados cadastrados como confidenciais e informa qual o grau de sua restrição.
+
+![sprint_3_opc1_1](https://user-images.githubusercontent.com/55189046/83285173-31ce2480-a1b4-11ea-9604-a134565e478d.gif)
+
 ## 2° Funcionalidade:
-Remove um metadado específico da configuração, que marcado para ser analisado como confidencial.
+Remove um metadado específico da configuração marcado para ser analisado como confidencial.
+
+![sprint_3_opc2_1](https://user-images.githubusercontent.com/55189046/83286518-6c38c100-a1b6-11ea-9018-ce1ef96ffbbb.gif)
+
 ## 3° Funcionalidade:
 Adiciona um metadado na configuração e marca para ser analisado como confidencial.
+
+![sprint_3_opc2_2](https://user-images.githubusercontent.com/55189046/83286520-6cd15780-a1b6-11ea-91f6-2ea21f05516d.gif)
+
+
 ## 4° Funcionalidade:
 Lista todos os metadados marcados como confidenciais.
 
+![sprint_3_opc2_3](https://user-images.githubusercontent.com/55189046/83285177-3397e800-a1b4-11ea-9ca8-9ad4a05f908f.gif)
 
