@@ -10,6 +10,14 @@ Nessa sprint focamos em entregar o código de acordo com o seguinte card:
 
 ![sprint-3](https://user-images.githubusercontent.com/55189046/82715526-df4bb000-9c69-11ea-8042-ba2d8357e5ac.jpeg)
 
+## Objetivo desta sprint
+
+Conforme o nosso cronograma, decidimos realizar esta sprint neste momento porque acreditamos que é de grande valor que o SPC possa desde ja ánalisar a confidencialidade dos dados, para que assim tenham ciencia dos niveís de confidencialidade de cada dado, antes de trabalhar os mesmos.
+
+### Base de dados
+
+Nesta entrega é necessário que a base de dados seja inserida no diretório **database**. Não disponibilizamos a base de dados por conter informações confidenciais.
+
 ## Abaixo segue todas as funcionalidades do código.
 
 ### 1° Funcionalidade:
@@ -33,6 +41,3 @@ Lista todos os metadados marcados como confidenciais.
 
 ![sprint_3_opc2_3](https://user-images.githubusercontent.com/55189046/83285177-3397e800-a1b4-11ea-9ca8-9ad4a05f908f.gif)
 
-## Objetivo desta sprint
-
-Conforme o nosso cronograma, decidimos realizar esta sprint neste momento porque acreditamos que é de grande valor que o SPC possa desde ja ánalisar a confidencialidade dos dados, para que assim tenham ciencia dos niveís de confidencialidade de cada dado, antes de trabalhar os mesmos.
