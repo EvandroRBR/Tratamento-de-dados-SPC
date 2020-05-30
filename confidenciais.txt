@@ -1,0 +1,16 @@
+QTD_PGT
+VLR_CTRD_CSC
+VLR_PGT_FAT
+VLR_SDO_UTZ_CRD_RTO
+VLR_TOT_FAT
+VLR_MIM_FAT
+VLR_PCL_FAT
+CNPJ
+cpf
+qtd_pcl
+vlr_tot_fat
+vlr_min_fat
+vlr_pcl
+vlr_pgt
+vlr_ctrd
+sexo

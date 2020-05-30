@@ -1,6 +1,8 @@
 import conv_dict
+import return_csv
 
-files=['STG_FNT_ITT','STG_MDL','STG_MVT_CRD','STG_OPR_ITT','STG_PGT']
+files=['STG_FNT_ITT','STG_MDL','STG_MVT_CRD','STG_OPR_ITT','STG_PGT',
+'fatec_pessoa_fisica','fatec_endereco_pessoa_fisica','fatec_opr','fatec_pgt','fatec_mvt']
 
 confidental_array = []
 nivel_restrição = []
@@ -10,7 +12,10 @@ def sep_conf():
   tuple_dic = []
 
   for i in range(len(files)):
-    tuple_dic.append(conv_dict.return_tuple(f'database/{files[i]}'))
+    try:
+      tuple_dic.append(conv_dict.return_tuple(f'database/{files[i]}'))
+    except:
+      tuple_dic.append(return_csv.tuple_csv(f'{files[i]}'))
 
   for j in range(len(tuple_dic)):
     print(f'\nTabela {files[j]}:')
@@ -70,7 +75,8 @@ def escolha():
 
     elif(else_escolha == 3):
       print('Metadados marcados como confidenciais')
-      print(confidental_array,nivel_restrição)
+      for i in range(len(files)):
+        print(f'\n{confidental_array[i]}: Nivel Restrição: {nivel_restrição[i]}')
 
       clear()
       

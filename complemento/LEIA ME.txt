@@ -1,0 +1,3 @@
+Este repositório refere-se à base de dados onde
+os arquivos devem ser inseridos para a 
+análise.
