@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./index.css">
+  <title>ANALISATOR</title>
+  
+  
+</head>
+<body>
+  <div class="center">
+
+    <div class="left">
+      <section class="logo">
+        <img src="../assets/spc-logo-App.png" alt="Foto linda do spc brasil">
+      </section>
+      
+      <section class="buttons">
+        <button class="btn null" onclick="openButton()" >Relatótio nulos/repetidos</button>
+        <button class="soon" disabled>Em Breve</button>
+        <button class="soon" disabled>Em Breve</button>
+        <button class="soon" disabled>Em Breve</button>
+        <button class="soon" disabled>Em Breve</button>
+      </section>
+      
+    </div>
+
+    <div class="mid">
+      <section class="options invisible">
+        <button 
+          class="table btn" 
+          onclick="getAnalise('STG_FNT_ITT') 
+          "> STG_FNT_ITT </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('STG_MDL')"
+          >STG_MDL </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('STG_MVT_CRD')"
+          >STG_MVT_CRD </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('STG_OPR_ITT')"
+          >STG_OPR_ITT </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('STG_PGT')"
+          >STG_PGT </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('fatec_endereco_pessoa_fisica')"
+          >fatec_endereco_<br>pessoa_fisica </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('fatec_mvt')"
+          >fatec_mvt </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('fatec_opr')"
+          >fatec_opr </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('fatec_pessoa_fisica')"
+          >fatec_pessoa_<br>fisica </button>
+        
+        <button 
+          class="table btn"
+          onclick="getAnalise('fatec_pgt')"
+          >fatec_pgt </button>
+      </section>
+    </div>
+
+    <div class="right">
+
+      <section class="upload">
+        <input type="file">
+      </section>
+
+      <section class="content">
+        
+      </section>
+
+    </div>
+
+  </div>
+  
+
+
+</body>
+<script src="../linkers/analise.js"></script>
+</html>
