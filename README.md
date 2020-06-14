@@ -10,7 +10,7 @@ Após feedback do SPC e uma breve conversa sobre entrega de valor para essa spri
 
 CARD
 
-![image](https://user-images.githubusercontent.com/55189046/82107920-917ef700-9701-11ea-9579-5860e5c09a3a.png)
+![card4](https://user-images.githubusercontent.com/55189046/84605938-da98a700-ae77-11ea-9cf7-70e28a4bbb14.jpeg)
 
 
 
@@ -34,10 +34,9 @@ Voltando ao valor dessa entrega: esse é um cenário reduzido do que pode ser re
 
 Primeiramente é selecionada a opção desejada para verificação dos dados. Feito isso, irá aparecer um submenu com as opções das tabelas a serem analisadas:
 
-GIF
+
+![simplescreenrecorder-2020-06-14](https://user-images.githubusercontent.com/55189046/84605937-da001080-ae77-11ea-93aa-b476fe1aa4a4.gif)
 
 Após escolha da tabela, as informações serão descritas no campo lateral.
-
-GIF
 
 Esta foi uma solução para entrega de um **Aplicativo Desktop** versão beta; reconhecemos as limitações, que serão tratadas em sprints posteriores.
