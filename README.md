@@ -8,7 +8,6 @@
 Após feedback do SPC e uma breve conversa sobre entrega de valor para essa sprint, acordamos junto ao cliente que seria priorizado o card abaixo:
 
 
-CARD
 
 ![card4](https://user-images.githubusercontent.com/55189046/84605938-da98a700-ae77-11ea-9cf7-70e28a4bbb14.jpeg)
 
@@ -33,7 +32,6 @@ Voltando ao valor dessa entrega: esse é um cenário reduzido do que pode ser re
 ## Como funciona?
 
 Primeiramente é selecionada a opção desejada para verificação dos dados. Feito isso, irá aparecer um submenu com as opções das tabelas a serem analisadas:
-
 
 ![simplescreenrecorder-2020-06-14](https://user-images.githubusercontent.com/55189046/84605937-da001080-ae77-11ea-93aa-b476fe1aa4a4.gif)
 
