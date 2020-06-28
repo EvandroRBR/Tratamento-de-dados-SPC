@@ -43,7 +43,7 @@ Ainda pretendemos implementar um *Data Cleaning* em alguns campos, para serem tr
 
 ![CARD'S-1e2](https://user-images.githubusercontent.com/56441214/82007549-e4dd4080-9640-11ea-980a-57477da5d7e7.png)
 
-![Card_3_Card_4](https://user-images.githubusercontent.com/55189046/83447745-4a924080-a427-11ea-8341-2fd972f90bcf.png)
+![WhatsApp Image 2020-06-28 at 19 31 33](https://user-images.githubusercontent.com/55189046/85960980-b2cc3780-b97d-11ea-9973-49f2e186b74d.jpeg)
 
 ![Card_4_Card_5](https://user-images.githubusercontent.com/55189046/83447742-49f9aa00-a427-11ea-9deb-3f4e9b54f8b6.png)
 
