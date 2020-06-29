@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DP Standardize</title>
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="../globalStyle.css">
+</head>
+<body>
+
+  <section class="sec-logo">
+
+    <figure class="spc">
+      <img src="../../assets/spc-logo-App.png" alt="spc">
+    </figure>
+
+    <figure class="fatec">
+      <img src="../../assets/fatec-logo-App.png" alt="fatequinha">
+    </figure>
+    
+  </section>
+
+  <div class="center table-name">
+    
+    <section class="welcome">
+      <strong>Bem vindo ao DP Standardization</strong>
+        <br>
+      <strong>Informe o nome da tabela a ser analizada</strong>
+    </section>
+
+    <section class="inputs">
+      <input class="inputTableName" type="text" placeholder="Type a file name">
+    </section>
+
+    <section class="buttons">
+      <a href="../login/login.html">
+        <button class="btn goBack">
+          Go back
+        </button>
+      </a>
+      <button class="btn" onclick="toSettingsPage()">Done</button>
+    </section>
+  </div>
+
+  <div class="center pre-settings hidden">
+    
+    <h1>Insira abaixo as informações que <strong style="color: #e02041;">a coluna não deve conter</strong></h3>
+    <div class="message"></div>
+    <div class="buttons">
+      <section class="buttons-col">     
+        
+      </section>
+
+      <section class="buttons-choices">
+        <button class="btn goBack" onclick="goBackToStart(false)">Go Back</button>
+        <button class="btn" onclick="runAnalise()">Run</button>
+      </section>
+    </div>
+  </div>  
+
+  <div class="center analizator hidden">
+    <section class="relatorio-main">
+      <h2>Relatório geral</h2>
+      <textarea 
+        class="textAreaRelatorio"
+        readonly
+        placeholder="Oppss ... ocorreu algum erro">
+      </textarea>
+    </section>
+
+    <section class="buttons-analise">
+      <button class="btn" onclick="goBackToStart(true)">Analisar outra tabela</button>
+      <button class="disabled" disabled>Gerar tabela com dados no padrão</button>
+      <button class="disabled" disabled>Gerar tabela com dados fora do padrão</button>
+    </section>
+
+  </div>
+
+  <script src="./index.js"></script>
+</body>
+</html>
