@@ -55,9 +55,9 @@ Ao final você pode ter gerado novas tabelas, com seus dados padronizados, pront
 
 ![CARD'S-1e2](https://user-images.githubusercontent.com/56441214/82007549-e4dd4080-9640-11ea-980a-57477da5d7e7.png)
 
-![CARD'S-3e4](https://user-images.githubusercontent.com/57918707/85963433-0d6c9000-b98c-11ea-9573-080b98e95092.png)
+![image](https://user-images.githubusercontent.com/57918707/85963618-efebf600-b98c-11ea-9d7e-de3a43522d29.png)
 
-![CARD'S-5e6](https://user-images.githubusercontent.com/57918707/85963435-0fceea00-b98c-11ea-8834-7c1331f6f83a.png)
+![image (1)](https://user-images.githubusercontent.com/57918707/85963623-f4181380-b98c-11ea-94ba-b422b1c13759.png)
 
 
 
