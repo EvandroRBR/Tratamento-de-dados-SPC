@@ -17,6 +17,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com o SPC Brasi
 * Evandro Braga - PO
 * Leonardo Messias - Scrum Master
 * Fabrício Rodrigues - DEV Team
+* Guilherme Madeira - DEV Team
 * Mateus Prestes - DEV Team
 * Pedro Mendonça - DEV Team
 * Raquel Ribeiro - DEV Team
@@ -24,12 +25,23 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com o SPC Brasi
 
 ## - Objetivo
 
-
-Desenvolveremos um Aplicativo Desktop com o intuito de ser utilizado como *_Data Preparation_*, ou seja, uma estrutura de análise delineáveis para que futuras remessas de dados sejam facilmente verificadas.
+Desenvolvimento de um Aplicativo Desktop com o intuito de ser utilizado como *_Data Preparation_*, ou seja, uma estrutura de análise delineáveis para que futuras remessas de dados sejam facilmente verificadas.
 
 O produto final contará com uma plataforma intuitiva onde podem ser adicionados e/ou retirados campos para análise de acordo com a necessidade do usuário.
 
 Ainda pretendemos implementar um *Data Cleaning* em alguns campos, para serem tratados e corrigidos no momento da análise de dados sem que a remessa precise voltar à fonte devido somente a este campo, como no caso do CNPJ, por exemplo.
+
+## - DP Standardize
+
+![WhatsApp Image 2020-06-28 at 21 18 01](https://user-images.githubusercontent.com/57918707/85962066-e9f21700-b984-11ea-8e24-2506a4884541.jpeg)
+
+Você sabia que a parte mais importante e trabalhosa de um processo de Data Science é o Data Preparation?
+
+É nessa etapa que os dados serão coletados, tratados e consolidados para que sua análise seja precisa, afinal uma má análise significa más decisões de negócios.
+
+DP Standardize é a ferramenta ideal para sua padronização de dados, sendo capaz de analisar qualquer tabela ```xlsx``` e ```csv``` e permitindo a personalização dos campos, ou seja, informando quais tipos de dados não podem conter em cada coluna.
+
+Ao final você pode ter gerado novas tabelas, com seus dados padronizados, prontos para a continuação da elaboração de seu futuro projeto, ou ainda dados fora dos padrões desejados, para ser devolvido à fonte e corrigidos, antes de serem usados em seu projeto.
 
 
 ## - Diagrama de Casos de Uso
@@ -43,9 +55,11 @@ Ainda pretendemos implementar um *Data Cleaning* em alguns campos, para serem tr
 
 ![CARD'S-1e2](https://user-images.githubusercontent.com/56441214/82007549-e4dd4080-9640-11ea-980a-57477da5d7e7.png)
 
-![WhatsApp Image 2020-06-28 at 19 31 33](https://user-images.githubusercontent.com/55189046/85960980-b2cc3780-b97d-11ea-9973-49f2e186b74d.jpeg)
+![CARD'S-3e4](https://user-images.githubusercontent.com/57918707/85963433-0d6c9000-b98c-11ea-9573-080b98e95092.png)
 
-![Card_4_Card_5](https://user-images.githubusercontent.com/55189046/83447742-49f9aa00-a427-11ea-9deb-3f4e9b54f8b6.png)
+![CARD'S-5e6](https://user-images.githubusercontent.com/57918707/85963435-0fceea00-b98c-11ea-8834-7c1331f6f83a.png)
+
+
 
  ## - Entregas 
    
