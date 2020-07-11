@@ -1,7 +1,6 @@
-![image](https://user-images.githubusercontent.com/57918707/81295850-6e8c7d00-9047-11ea-98ea-f68549174851.png)
+![fatecsjc_400x192](https://user-images.githubusercontent.com/56441534/87232319-5234f580-c394-11ea-9183-2fdc7de82b54.png)
 
-
-# Projeto Integrador - Fatec São José dos Campos - SPC Brasil
+# Projeto Integrador - Fatec São José dos Campos 
 
 ## SPRINT 3
 
@@ -11,9 +10,9 @@ Nessa sprint focamos em entregar o código de acordo com o seguinte card:
 
 ## Objetivo
 
-De acordo com pesquisas realizadas e informações coletadas com o SPC, determinamos quais são os dados confidenciais.
+De acordo com pesquisas realizadas e informações coletadas com a empresa, determinamos quais são os dados confidenciais.
 
-Acreditamos que é de grande valor para o SPC analisar a confidencialidade dos dados neste momento, para que assim tenham ciência dos níveís de confidencialidade de cada dado antes de processá-los.
+Acreditamos que é de grande valor para a empresa analisar a confidencialidade dos dados neste momento, para que assim tenham ciência dos níveís de confidencialidade de cada dado antes de processá-los.
 
 ### Base de dados
 
