@@ -1,12 +1,12 @@
-![image](https://user-images.githubusercontent.com/57918707/81295850-6e8c7d00-9047-11ea-98ea-f68549174851.png)
+![fatecsjc_400x192](https://user-images.githubusercontent.com/56441534/87232319-5234f580-c394-11ea-9183-2fdc7de82b54.png)
 
 
-# Projeto Integrador - Fatec São José dos Campos - SPC Brasil
+# Projeto Integrador - Fatec São José dos Campos 
 
 
 ## SPRINT 1
 
-Na primeira sprint, decidimos juntamente com a necessidade do SPC Brasil, a aplicação do seguinte card:
+Na primeira sprint, decidimos juntamente com a necessidade da empresa cliente, a aplicação do seguinte card:
 
 
 ![CARD1 ](https://user-images.githubusercontent.com/57918707/82107072-5b3e7900-96fb-11ea-9e9b-278562bbdc99.png)
