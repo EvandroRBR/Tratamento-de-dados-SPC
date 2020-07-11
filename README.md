@@ -1,11 +1,10 @@
-![image](https://user-images.githubusercontent.com/57918707/81295850-6e8c7d00-9047-11ea-98ea-f68549174851.png)
+![fatecsjc_400x192](https://user-images.githubusercontent.com/56441534/87232319-5234f580-c394-11ea-9183-2fdc7de82b54.png)
 
-
-# Projeto Integrador - Fatec São José dos Campos - SPC Brasil
+# Projeto Integrador - Fatec São José dos Campos 
 
 ## SPRINT 4
 
-Após feedback do SPC e uma breve conversa sobre entrega de valor para essa sprint, acordamos junto ao cliente que seria priorizado o card abaixo:
+Após feedback da empresa e uma breve conversa sobre entrega de valor para essa sprint, acordamos junto ao cliente que seria priorizado o card abaixo:
 
 
 
@@ -19,7 +18,7 @@ Além disso, essa ferramenta é utilizada de forma intuitiva, onde podem ser adi
 
 ## Objetivo
 
-Apresentação de um **Aplicativo Desktop** versão beta, onde iremos verificar os valores nulos e repetidos; acreditamos ser de grande valor para o SPC a capacidade de analisar a movimentação dos consumidores.
+Apresentação de um **Aplicativo Desktop** versão beta, onde iremos verificar os valores nulos e repetidos; acreditamos ser de grande valor para a empresa a capacidade de analisar a movimentação dos consumidores.
 
 **Mas o que isso tem a ver com a verificação de dados nulos ou repetidos?**
 
