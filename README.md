@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/57918707/81295850-6e8c7d00-9047-11ea-98ea-f68549174851.png)
+![fatecsjc_400x192](https://user-images.githubusercontent.com/56441534/87232319-5234f580-c394-11ea-9183-2fdc7de82b54.png)
 
-# Projeto Integrador - Fatec São José dos Campos - SPC Brasil
+# Projeto Integrador - Fatec São José dos Campos
 
-Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com o SPC Brasil para um Projeto Integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscar soluções e implantá-las através da metodologia SCRUM.
+Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma empresa cliente para um Projeto Integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscar soluções e implantá-las através da metodologia SCRUM.
 
 ## - Disciplinas integradas
 * ### Engenharia de Software 
@@ -47,7 +47,7 @@ Ao final você pode ter gerado novas tabelas, com seus dados padronizados, pront
 ## - Diagrama de Casos de Uso
 
 
-![Caso de uso 1](https://user-images.githubusercontent.com/55189046/84602740-ed9f7d00-ae5f-11ea-8f59-99080058b775.png)
+![diagrma de uso](https://user-images.githubusercontent.com/56441534/87232771-f40a1180-c397-11ea-9087-208f4eb1bd04.png)
 
 
 
