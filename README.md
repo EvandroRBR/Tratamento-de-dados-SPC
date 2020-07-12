@@ -6,7 +6,7 @@
 
 Nessa sprint focamos em entregar o código de acordo com o seguinte card:
 
-![card_3](https://user-images.githubusercontent.com/55189046/83446994-14a08c80-a426-11ea-9658-5f8a51e55476.jpeg)
+![Card_3](https://user-images.githubusercontent.com/56441214/87236799-f3877000-c3c3-11ea-8e24-1ed45dec674b.png)
 
 ## Objetivo
 
