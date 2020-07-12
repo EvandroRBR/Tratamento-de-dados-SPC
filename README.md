@@ -7,7 +7,7 @@
 
 Para essa sprint, ficou acordada a continuação do desenvolvimento do **DP Standardize**, como apresentado no card a seguir:
 
-![CARD5](https://user-images.githubusercontent.com/57918707/85964387-ddbf8700-b98f-11ea-9a2d-000c8167f76f.png)
+![Card_5](https://user-images.githubusercontent.com/56441214/87236827-36e1de80-c3c4-11ea-932d-cd353ba3d94b.png)
 
 
 ## DP Standardize
