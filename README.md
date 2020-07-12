@@ -7,8 +7,7 @@
 Após feedback da empresa e uma breve conversa sobre entrega de valor para essa sprint, acordamos junto ao cliente que seria priorizado o card abaixo:
 
 
-
-![card4](https://user-images.githubusercontent.com/55189046/84605938-da98a700-ae77-11ea-9cf7-70e28a4bbb14.jpeg)
+![Card_4](https://user-images.githubusercontent.com/56441214/87236813-14e85c00-c3c4-11ea-8733-102d125fb978.png)
 
 
 
