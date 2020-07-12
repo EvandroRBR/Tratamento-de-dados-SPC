@@ -1,4 +1,4 @@
-![fatecsjc_400x192](https://user-images.githubusercontent.com/56441534/87232319-5234f580-c394-11ea-9183-2fdc7de82b54.png)
+![topo-readME](https://user-images.githubusercontent.com/57918707/87258953-1a09e180-c47e-11ea-913d-59637d6f6345.png)
 
 # Projeto Integrador - Fatec São José dos Campos 
 # SPRINT 2
