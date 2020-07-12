@@ -12,7 +12,7 @@ Para essa sprint, ficou acordada a continuação do desenvolvimento do **DP Stan
 
 ## DP Standardize
 
-![WhatsApp Image 2020-06-28 at 21 18 01](https://user-images.githubusercontent.com/57918707/85962066-e9f21700-b984-11ea-8e24-2506a4884541.jpeg)
+![mkt_dp](https://user-images.githubusercontent.com/57918707/87258940-f6469b80-c47d-11ea-8da7-ba16bed1f2c2.jpeg)
 
 #### Você sabia que a parte mais importante e trabalhosa de um processo de Data Science é o Data Preparation?
 
