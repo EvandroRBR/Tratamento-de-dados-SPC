@@ -8,8 +8,7 @@
 
 Na primeira sprint, decidimos juntamente com a necessidade da empresa cliente, a aplicação do seguinte card:
 
-
-![CARD1 ](https://user-images.githubusercontent.com/57918707/82107072-5b3e7900-96fb-11ea-9e9b-278562bbdc99.png)
+![Card_1](https://user-images.githubusercontent.com/56441214/87236779-a60b0300-c3c3-11ea-8244-d7f2d4497e03.png)
 
 
 ## - Execução do algoritmo
