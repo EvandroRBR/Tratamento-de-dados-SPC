@@ -53,11 +53,11 @@ Ao final você pode ter gerado novas tabelas, com seus dados padronizados, pront
 
 ## - Cards das Sprints
 
-![CARD'S-1e2](https://user-images.githubusercontent.com/56441214/82007549-e4dd4080-9640-11ea-980a-57477da5d7e7.png)
+![Card_1e2](https://user-images.githubusercontent.com/56441214/87236701-cd150500-c3c2-11ea-9509-2343281f5b0c.png)
 
-![image](https://user-images.githubusercontent.com/57918707/85963618-efebf600-b98c-11ea-9d7e-de3a43522d29.png)
+![Card_3e4](https://user-images.githubusercontent.com/56441214/87236708-d8683080-c3c2-11ea-83a6-90e63c522570.png)
 
-![CARD'S-5e6](https://user-images.githubusercontent.com/56441534/85965064-0183cc80-b992-11ea-88a6-6f11ddf48ef4.png)
+![Card_5e6](https://user-images.githubusercontent.com/56441214/87236710-e1590200-c3c2-11ea-99cb-fad5ef67147c.png)
 
 
 
