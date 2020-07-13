@@ -16,7 +16,11 @@ for col in matriz.split('|'):
 
 matriz = nuevaMatriz
 
+<<<<<<< HEAD
 workbook = xlsxwriter.Workbook('good.xlsx')
+=======
+workbook = xlsxwriter.Workbook('generatedTables/tabela_padronizada.xlsx')
+>>>>>>> master
 worksheet = workbook.add_worksheet()
 
 for col in range(len(matriz[0])+1):
