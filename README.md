@@ -1,8 +1,11 @@
-![fatecsjc_400x192](https://user-images.githubusercontent.com/56441534/87232319-5234f580-c394-11ea-9183-2fdc7de82b54.png)
+![topo-readME](https://user-images.githubusercontent.com/57918707/87258458-08bed600-c47a-11ea-9d5e-df9bfb8f4631.png)
+
+![tecnologias_PI](https://user-images.githubusercontent.com/57918707/87260757-c0a7af80-c489-11ea-9dbc-753f24891d53.png)
+
 
 # Projeto Integrador - Fatec São José dos Campos
 
-Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma empresa cliente para um Projeto Integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscar soluções e implantá-las através da metodologia SCRUM.
+Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa cliente para um Projeto Integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscar soluções e implantá-las através da metodologia SCRUM.
 
 ## - Disciplinas integradas
 * ### Engenharia de Software 
@@ -25,15 +28,16 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma empresa
 
 ## - Objetivo
 
-Desenvolvimento de um Aplicativo Desktop com o intuito de ser utilizado como *_Data Preparation_*, ou seja, uma estrutura de análise delineáveis para que futuras remessas de dados sejam facilmente verificadas.
+Desenvolver um produto que gere valor ao cliente e esteja em conformidade com as regras de negócio.
 
-O produto final contará com uma plataforma intuitiva onde podem ser adicionados e/ou retirados campos para análise de acordo com a necessidade do usuário.
+## - O Projeto
 
-Ainda pretendemos implementar um *Data Cleaning* em alguns campos, para serem tratados e corrigidos no momento da análise de dados sem que a remessa precise voltar à fonte devido somente a este campo, como no caso do CNPJ, por exemplo.
+Desenvolvimento de uma estrutura de análise delineáveis, no formato de Aplicativo Desktop para padronização dos dados recebidos através de remessas. A ferramenta, que conta com um design intuitivo e funcional, será utilizada como *Data Preparation*, auxiliando assim, na padronização dos dados antes de serem aplicados em futuros projetos.
+
 
 ## - DP Standardize
 
-![WhatsApp Image 2020-06-28 at 21 18 01](https://user-images.githubusercontent.com/57918707/85962066-e9f21700-b984-11ea-8e24-2506a4884541.jpeg)
+![marketing_PI_11111](https://user-images.githubusercontent.com/57918707/87260544-dbc5ef80-c488-11ea-8987-faec80939a8b.png)
 
 Você sabia que a parte mais importante e trabalhosa de um processo de Data Science é o Data Preparation?
 
@@ -44,11 +48,47 @@ DP Standardize é a ferramenta ideal para sua padronização de dados, sendo cap
 Ao final você pode ter gerado novas tabelas, com seus dados padronizados, prontos para a continuação da elaboração de seu futuro projeto, ou ainda dados fora dos padrões desejados, para ser devolvido à fonte e corrigidos, antes de serem usados em seu projeto.
 
 
+## - Personalização dos campos
+
+Um Analista com conhecimento nos arquivos poderá personalizar os campos, de forma que, a padronização dos seus dados seja de acordo com o necessitado.
+
+As formas de personalização são simples: ele deverá escolher se aquele campo é requerido, único, se contém apenas caracteres numéricos, alfanuméricos ou apenas letras; poderão ser selecionadas mais de uma opção.
+
+Posteriormente, será indicado em qual metadado essas configurações serão atribuídas, e em quais condições.
+
+**Ex.: O Analista seleciona as checkbox requerido, alfanumérico, quando o metadado for id_mdl, sob a condição de C01.**
+
+Feita a padronização, esses novos dados poderão ser enviados às equipes de Gestão, Marketing e Engenharia de Software, para que o desenvolvimento do produto seja colocado em prática.
+
+
+## - Aplicações
+
+DP Standardize pode ser útil em várias áreas em que o objetivo seja padronizar os dados para serem utilizados posteriormente em algum produto, como Gestão, Marketing e Engenharia de Software, por exemplo.
+
+
+## - Etapas de Desenvolvimento
+
+Para podermos otimizar o nosso trabalho, a equipe utilizou o processo de desenvolvimento da metodologia Scrum. Sendo assim, nós dividimos o processo em etapas que denominamos como Sprint.
+
+O projeto foi divido em 6 Sprints, sendo alinhado junto ao cliente as datas e conteúdo de cada entrega, de acordo com os cards apresentados posteriormente.
+
+Nas três primeiras sprints,estávamos focados em atingir os indicadores impostos pelo cliente, por isso, fizemos uma análise e tratamento dos dados recebidos.
+
+À partir da quarta sprint, realinhamos as expectativas com o cliente e mudamos totalmente o rumo do nosso projeto, desenvolvendo então a aplicação apresentada acima.
+
+
+## - Tecnologias utilizadas
+
+Ao longo do projeto tivemos contato com várias tecnologias que já possuímos certo conhecimento e algumas em que foi necessário o estudo para implementação.
+
+No início utilizamos Python para análise dos dados e alcance dos indicadores propostos.
+
+Posteriormente, com a necessidade do desenvolvimento de uma aplicação, pesquisamos o framework Electron, que fazia integração com o Python, porém, para melhor desempenho era necessário o uso do Javascript, então migramos para o NodeJS, e todo o design feito em HTML e CSS.
+
+
 ## - Diagrama de Casos de Uso
 
-
 ![diagrma de uso](https://user-images.githubusercontent.com/56441534/87232771-f40a1180-c397-11ea-9087-208f4eb1bd04.png)
-
 
 
 ## - Cards das Sprints
@@ -58,7 +98,6 @@ Ao final você pode ter gerado novas tabelas, com seus dados padronizados, pront
 ![Card_3e4](https://user-images.githubusercontent.com/56441214/87236708-d8683080-c3c2-11ea-83a6-90e63c522570.png)
 
 ![Card_5e6](https://user-images.githubusercontent.com/56441214/87236710-e1590200-c3c2-11ea-99cb-fad5ef67147c.png)
-
 
 
  ## - Entregas 
@@ -74,6 +113,7 @@ Ao final você pode ter gerado novas tabelas, com seus dados padronizados, pront
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-5'> Branch 5 </a>- 22/06/2020 a 26/06/2020
   
   <a href='https://github.com/EvandroRBR/Tratamento-de-dados-SPC/tree/sprint-6'> Branch 6 </a>- 06/07/2020 a 10/07/2020
+  
   
 ## - Requisitos necessários para o funcionamento do código
 * IDE **Python 3** ou superior;
