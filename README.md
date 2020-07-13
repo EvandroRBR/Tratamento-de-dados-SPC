@@ -74,7 +74,7 @@ O projeto foi divido em 6 Sprints, sendo alinhado junto ao cliente as datas e co
 
 Nas três primeiras sprints,estávamos focados em atingir os indicadores impostos pelo cliente, por isso, fizemos uma análise e tratamento dos dados recebidos.
 
-À partir da quarta sprint, realinhamos as expectativas com o cliente e mudamos totalmente o rumo do nosso projeto, desenvolvendo então a aplicação apresentada acima.
+À partir da quarta sprint, realinhamos as expectativas com o cliente e atualizamos alguns pontos do nosso projeto, para que pudéssemos atender à esses requisitos, desenvolvendo então a aplicação apresentada acima.
 
 
 ## - Tecnologias utilizadas
