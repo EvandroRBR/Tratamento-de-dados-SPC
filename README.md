@@ -36,14 +36,22 @@ Feita a padronização, esses novos dados poderão ser enviados às equipes de G
 
 O cliente irá dispor de uma aplicação segura, onde cada Analista possuirá seu cadastro com login e senha.
 
-A padronização das tabelas é feita de forma rápida, devendo somente arrastar a tabela ao local indicado.
-
-GIF
+A padronização das tabelas é feita de forma rápida, devendo somente arrastar ou clicar para adicionar a tabela ao local indicado.
 
 A página seguinte já contará com seus metadados, que ao serem clicados, abrirão uma nova janela para inserção da personalização já citada no tópico acima.
 
-Após a escolha das opções, clique em Confirmar. Faça o mesmo para todos os metadados que deseja padronizar.
+Após a escolha das opções, clique em **Baixar Tabela**, assim seus dados padronizados serão gerados e salvos. 
 
-GIF
+![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/57918707/87265117-47fc1f80-c498-11ea-8787-60aab6d6b2e4.gif)
 
-Ao final, sua nova tabela será gerada e salva automaticamente na pasta **Database** para tomar o destino conveniente.
+Ao final, sua nova tabela será gerada e salva automaticamente na pasta **GenerateTable** para tomar o destino conveniente.
+
+![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/57918707/87265314-dc668200-c498-11ea-9721-fe048f989bf3.gif)
+
+Para padronizar mais campos, volte ao DP Standardize, clique em **Limpar**, adicione as novas personalizações e clique em **Baixar Tabela** novamente.
+
+![ezgif com-video-to-gif (6)](https://user-images.githubusercontent.com/57918707/87265504-5dbe1480-c499-11ea-9b1e-51bab99032d0.gif)
+
+Assim será gerada uma nova tabela com as novas padronizações.
+
+![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/57918707/87265568-7c241000-c499-11ea-90f2-1b7276aeaa5b.gif)
