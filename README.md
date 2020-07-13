@@ -1,4 +1,4 @@
-![topo-readME](https://user-images.githubusercontent.com/57918707/87258953-1a09e180-c47e-11ea-913d-59637d6f6345.png)
+![topo-readME](https://user-images.githubusercontent.com/56441214/87261187-ae2e7580-c48b-11ea-91de-e2bad8f5b938.png)
 
 
 # Projeto Integrador - Fatec São José dos Campos
