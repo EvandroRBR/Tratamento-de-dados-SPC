@@ -1,6 +1,8 @@
-![topo-readME](https://user-images.githubusercontent.com/57918707/87258458-08bed600-c47a-11ea-9d5e-df9bfb8f4631.png)
+![topo-readME](https://user-images.githubusercontent.com/56441214/87260951-a9b58d00-c48a-11ea-8f55-4610be5fd1de.png)
 
-![tecnologias_PI](https://user-images.githubusercontent.com/57918707/87260757-c0a7af80-c489-11ea-9dbc-753f24891d53.png)
+![tecnologias_PI](https://user-images.githubusercontent.com/56441214/87261022-f1d4af80-c48a-11ea-8177-04bd6dad756e.png)
+
+
 
 
 # Projeto Integrador - Fatec São José dos Campos
