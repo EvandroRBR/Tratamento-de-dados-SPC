@@ -5,12 +5,12 @@ const user = 'admin';
 const pass = '123456';
 
 function verify() {
-  if (checkUser.value != user) {
-    alert('Usuário inválido');
-  } else if (checkPass.value != pass) {
-    alert('Senha inválida');
-  } else {
+  // if (checkUser.value != user) {
+  //   alert('Usuário inválido');
+  // } else if (checkPass.value != pass) {
+  //   alert('Senha inválida');
+  // } else {
     window.location.href = "../ferramenta/index.html";
   }
-}
+// }
 
