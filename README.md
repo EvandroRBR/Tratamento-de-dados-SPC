@@ -30,9 +30,13 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa
 
 Desenvolver um produto que gere valor ao cliente e esteja em conformidade com as regras de negócio.
 
+<a href="https://youtu.be/bPum7wufFR4">Visualizar vídeo de apresentação</a>
+
 ## - O Projeto
 
 Desenvolvimento de uma estrutura de análise delineáveis, no formato de Aplicativo Desktop para padronização dos dados recebidos através de remessas. A ferramenta, que conta com um design intuitivo e funcional, será utilizada como *Data Preparation*, auxiliando assim, na padronização dos dados antes de serem aplicados em futuros projetos.
+
+
 
 
 ## - DP Standardize
